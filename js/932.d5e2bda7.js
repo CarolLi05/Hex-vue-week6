@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week6"]=self["webpackChunkvue_week6"]||[]).push([[932],{932:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var r=u(252);function t(e,n){return(0,r.wg)(),(0,r.iD)("h2",null,"admin coupon list")}var c=u(744);const a={},i=(0,c.Z)(a,[["render",t]]);var s=i}}]);
+//# sourceMappingURL=932.d5e2bda7.js.map
